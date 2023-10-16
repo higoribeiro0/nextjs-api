@@ -26,9 +26,3 @@ Para saber mais sobre Next.js, dê uma olhada nos seguintes recursos:
 - [Aprenda Next.js](https://nextjs.org/learn) - um tutorial interativo de Next.js.
 
 Você pode conferir [o repositório Next.js GitHub](https://github.com/vercel/next.js/) - seus comentários e contribuições são bem-vindos!
-
-## Implantar no Vercel
-
-A maneira mais fácil de implantar seu aplicativo Next.js é usar a [Plataforma Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app -readme) dos criadores do Next.js.
-
-Confira nossa [documentação de implantação do Next.js](https://nextjs.org/docs/deployment) para mais detalhes.
